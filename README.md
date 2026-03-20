@@ -2,7 +2,7 @@
 By Mina K Wu
 
 ## Overview
-This data science project
+This data science project aims to explore health trends in a recipes data from 
 
 ## Introduction
 
